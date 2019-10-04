@@ -12,6 +12,10 @@
     width: 50%;
 }
 
+.info {
+    float: right;
+}
+
 #AboutMe p {
    
     /* float: right; */
