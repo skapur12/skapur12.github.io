@@ -24,20 +24,9 @@
 .IconFooter {
    position: fixed;
    left: 0;
-   bottom: 30;
+   bottom: 0;
    width: 100%;
    background-color: pink;
    color: white;
    text-align: center;
-}
-
-.copyright {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: white;
-   color: black;
-   text-align: center;
-    
 }
