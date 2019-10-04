@@ -1,3 +1,5 @@
 .myself {
   object-fit: scale-down;
+  width:  300px;
+  height: 350px;
 }
