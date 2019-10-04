@@ -17,6 +17,7 @@
 }
 
 .container {
+    display: block;
     /* float: right; */
     
 }
