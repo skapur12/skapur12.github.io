@@ -8,11 +8,12 @@
     
     /* margin-left: 100px; */
     
-     float: none;  
+     float: left;  
     width: 50%;
 }
 
 #AboutMe p {
-    float: right;
+   
+    /* float: right; */
 
 }
