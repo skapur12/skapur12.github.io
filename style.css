@@ -33,9 +33,10 @@
 
  .profile-pic {
      object-fit: contain;
-     height:300px; 
-     width: 300px;
+     height:500px; 
+     width: 500px;
      margin-left: 10px;
+     margin-right: 20px;
      float: left;
     border-radius: 50%;
 } 
