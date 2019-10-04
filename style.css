@@ -1,4 +1,4 @@
-#AboutMe img {
+/* #AboutMe img {
     
      object-fit: contain; 
      height:500px; 
@@ -7,10 +7,9 @@
      /* margin: 0 auto; */
     
     /* margin-left: 100px; */
-    
-     float: left;  
-    width: 50%;
-}
+    /* float: left;  
+    width: 50%; 
+} */
 
 .container {
     display: block;
@@ -33,5 +32,8 @@
 
 
  .profile-pic {
+     object-fit: contain;
+     margin-left: 10px;
+     float: left;
     border-radius: 50%;
 } 
