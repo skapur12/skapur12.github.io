@@ -17,7 +17,7 @@
 }
 
 .IconFooter {
-   position: fixed;
+   position: relative;
    left: 0;
    bottom: 0;
    width: 100%;
@@ -33,13 +33,5 @@
 
 
 .image-cropper {
-    position: relative;
-    overflow: hidden;
     border-radius: 50%;
 }
-.profile-pic {
-  margin: 0 auto;
-  height: 100%;
-  width: auto;
-}
-
