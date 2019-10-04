@@ -18,30 +18,15 @@
 
 .container {
     display: block;
-    /* float: right; */
     
 }
 
-#AboutMe p {
-   
-    /* float: right; */
-
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
 }
-
-  #lab_footer {
-    padding: 40px 0;
-    background-color: #FC02F9;
-    max-width: 100%;
-  }
-
-  #lab_footer a {
-    color: #333;
-    margin: 10px;
-  }
-
-#container {
-  width: 600px;
-  margin: auto;
-}
-
-
