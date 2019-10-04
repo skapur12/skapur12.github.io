@@ -1,7 +1,7 @@
 #AboutMe img {
     
     object-fit: contain; 
-    height:10%;
+    height:auto;
     
     display: block;
     margin: 0 auto;
