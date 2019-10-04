@@ -33,5 +33,14 @@
 
 
 .image-cropper {
+    position: relative;
+    overflow: hidden;
     border-radius: 50%;
 }
+.profile-pic {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
