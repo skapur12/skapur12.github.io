@@ -16,6 +16,11 @@
     float: right;
 }
 
+.container {
+    float: right;
+    
+}
+
 #AboutMe p {
    
     /* float: right; */
