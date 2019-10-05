@@ -294,7 +294,7 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 
 
 input.PotholeButton {
-    background: #E91BC0;
+    background: #C1119E;
     color: #fff;
     width: 300px;
     padding: 25px 50px;
@@ -310,6 +310,6 @@ input.PotholeButton {
 
 input.PotholeButton:hover {
     color: #fff;
-    background: #B61896;
+    background: #8C1373;
     border: 1px solid #fff;
 }
