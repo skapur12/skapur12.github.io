@@ -281,6 +281,11 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 
 }
 
+.row1 {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 15px;
+}
+
 .row1:after {
   content: "";
   display: table;
