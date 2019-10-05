@@ -238,7 +238,7 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 50px;
 }
 
 /* Clear floats after image containers */
