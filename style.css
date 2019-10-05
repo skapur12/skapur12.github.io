@@ -163,3 +163,7 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
     border: 1px solid #fff;
 }
 
+.CenterButton {
+    text-align: center;
+}
+
