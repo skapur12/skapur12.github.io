@@ -214,6 +214,8 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 .ApplyBugDescription {
     text-align: center;
     font-style: Italic;
+    font-size: 20px;
+
 }
 
 
