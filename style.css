@@ -142,9 +142,8 @@ border: 1px solid #fff;
 
 input.TrackerButton, input.WebsiteButton {
     margin-right: 5px;
-    float: right;
     
-    width: 150px;
+    width: 100px;
     padding: 20px;
     cursor: pointer;
     font-weight: bold;
