@@ -207,6 +207,9 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  
+  object-fit: contain;
+
 }
 
 
