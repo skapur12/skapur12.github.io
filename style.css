@@ -180,3 +180,7 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
     text-align: center;
 }
 
+.heading {
+    padding-top: 200px;
+}
+
