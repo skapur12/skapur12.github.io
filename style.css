@@ -181,6 +181,9 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 }
 
 .heading {
-    padding-top: 200px;
+    padding-top: 100px;
+    text-align: center;
+    font-family: "American Typewriter", serif;
+
 }
 
