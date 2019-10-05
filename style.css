@@ -60,8 +60,8 @@
 .dropbtn {
   background-color: #DB2323;
   color: white;
-  padding: 16px;
-  font-size: 16px;
+  padding: 20px;
+  font-size: 20px;
   border: none;
 }
 
@@ -98,7 +98,7 @@
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #b51b1b;}
 
 input.MyButton {
 margin-right: 5px;
@@ -118,7 +118,7 @@ border-radius: 10px;
 box-shadow:: 6px 6px 5px #999;
 }
 input.MyButton:hover {
-color: #ffff00;
+color: #b51b1b;
 background: #000;
 border: 1px solid #fff;
 }
