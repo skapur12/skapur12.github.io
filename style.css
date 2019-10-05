@@ -209,7 +209,11 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
   width: 50%;
   
   object-fit: contain;
+}
 
+.ApplyBugDescription {
+    text-align: center;
+    font-style: Italic;
 }
 
 
