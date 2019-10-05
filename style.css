@@ -215,7 +215,26 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
     text-align: center;
     font-style: Italic;
     font-size: 20px;
-
 }
+
+.Poster1Image {
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; */
+  
+  object-fit: contain;
+}
+
+.Poster2Image {
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; */
+  
+  object-fit: contain;
+}
+
+
 
 
