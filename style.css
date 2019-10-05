@@ -145,6 +145,11 @@ input.TrackerButton, input.WebsiteButton {
     background: #27CDE6;
     color: #fff;
     width: 150px;
+    padding: 25px 50px;
+    
+    border: 1px solid #3366cc;
+    border-radius: 10px;
+
     
     /* width: 100px;
     padding: 20px;
