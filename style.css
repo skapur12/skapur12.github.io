@@ -148,6 +148,11 @@ input.TrackerButton, input.WebsiteButton {
     
     border: 1px solid #3366cc;
     border-radius: 10px;
+    
+    text-align: center;
+    font-family: 'Arial'; 
+    font-size: 20px; 
+
 
     
     /* width: 100px;
