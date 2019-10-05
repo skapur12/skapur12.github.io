@@ -269,7 +269,7 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 }
 
 .left {
-  width: 45%;
+  width: 43%;
   padding-left: 85px;
   padding-right: 15px; 
 }
@@ -283,7 +283,7 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 
 .row1 {
     font-family: "Arial", Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .row1:after {
