@@ -58,6 +58,7 @@
 
 /* Dropdown Button */
 .dropbtn {
+  float: right;
   background-color: #4CAF50;
   color: white;
   padding: 16px;
@@ -73,6 +74,7 @@
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
+  
   display: none;
   position: absolute;
   background-color: #f1f1f1;
