@@ -65,6 +65,10 @@
   font-size: 20px;
   /* border: none; */
     
+  font-weight: bold;
+  font-size: 150%;
+
+    
   border: 1px solid #3366cc;
   border-radius: 10px;
   -moz-box-shadow:: 6px 6px 5px #999;
