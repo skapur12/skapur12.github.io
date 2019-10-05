@@ -118,7 +118,7 @@ border-radius: 10px;
 box-shadow:: 6px 6px 5px #999;
 }
 input.MyButton:hover {
-color: #b51b1b;
-background: #000;
+color: #fff;
+background: #b51b1b;
 border: 1px solid #fff;
 }
