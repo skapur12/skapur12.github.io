@@ -184,10 +184,14 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
     padding-top: 100px;
     text-align: center;
     font-family: "American Typewriter", serif;
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .DonationTracker {
+    text-align: center;
+}
+
+.para {
     text-align: center;
 }
 
