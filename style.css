@@ -142,6 +142,9 @@ border: 1px solid #fff;
 
 input.TrackerButton, input.WebsiteButton {
     margin-right: 5px;
+    background: #1CD98E;
+    color: #fff;
+    width: 100px;
     
     /* width: 100px;
     padding: 20px;
@@ -160,7 +163,7 @@ input.TrackerButton, input.WebsiteButton {
 
 input.TrackerButton:hover, input.WebsiteButton:hover {
     color: #fff;
-    background: #b51b1b;
+    background: #11A96D;
     border: 1px solid #fff;
 }
 
