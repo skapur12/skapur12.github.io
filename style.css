@@ -291,3 +291,25 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
   display: table;
   clear: both;
 }
+
+
+input.PotholeButton {
+    background: #27CDE6;
+    color: #fff;
+    width: 300px;
+    padding: 25px 50px;
+    
+    border: 1px solid #3366cc;
+    border-radius: 10px;
+    
+    text-align: center;
+    font-family: 'Arial'; 
+    font-size: 20px; 
+
+}
+
+input.PotholeButton:hover {
+    color: #fff;
+    background: #1591A4;
+    border: 1px solid #fff;
+}
