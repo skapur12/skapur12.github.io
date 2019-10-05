@@ -202,3 +202,11 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 
 }
 
+.myImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
