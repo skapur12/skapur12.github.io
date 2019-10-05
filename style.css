@@ -141,7 +141,6 @@ border: 1px solid #fff;
 
 
 input.TrackerButton, input.WebsiteButton {
-    margin-right: 5px;
     background: #27CDE6;
     color: #fff;
     width: 150px;
@@ -149,6 +148,7 @@ input.TrackerButton, input.WebsiteButton {
     
     border: 1px solid #3366cc;
     border-radius: 10px;
+    text-align: center;
 
     
     /* width: 100px;
