@@ -269,11 +269,11 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 }
 
 .left {
-  width: 50%;
+  width: 55%;
 }
 
 .right {
-  width: 50%;
+  width: 45%;
 }
 
 .row1:after {
