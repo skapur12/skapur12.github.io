@@ -276,6 +276,12 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
   width: 50%;
 }
 
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
 
 
