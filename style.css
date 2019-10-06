@@ -313,3 +313,8 @@ input.PotholeButton:hover {
     background: #8C1373;
     border: 1px solid #fff;
 }
+
+/* Blog */
+ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts li { list-style: none; }
+
