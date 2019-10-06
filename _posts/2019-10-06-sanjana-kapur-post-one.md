@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Blog Launch"
 date: 2019-10-06
 ---
