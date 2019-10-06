@@ -8,6 +8,7 @@
 	<link href="http://skapur12.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://skapur12.github.io/blog</id>
+	<description>Sanjana's Blog</description>
 	<author>
 		<name>Sanjana Kapur</name>
 		<email>sanjana.kapur@gatech.edu</email>
@@ -20,6 +21,7 @@
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 			<id>http://skapur12.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
+			<description>{{ post.title }}</description>
 		</entry>
 	{% endfor %}
 
