@@ -2,30 +2,19 @@
 <rss version="2.0">
 
 <channel>
-
-	<title>Sanjana Kapur's Blog</title>
-	<link href="http://skapur12.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://skapur12.github.io/blog"/>
-	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://skapur12.github.io/blog</id>
-	<description>Sanjana's Blog</description>
-	<author>
-		<name>Sanjana Kapur</name>
-		<email>sanjana.kapur@gatech.edu</email>
-	</author>
-
-	{% for post in site.posts %}
-		<entry>
-			<title>{{ post.title }}</title>
-			<link href="http://skapur12.github.io{{ post.url }}"/>
-			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://skapur12.github.io{{ post.id }}</id>
-			<content type="html">{{ post.content | xml_escape }}</content>
-			<description>{{ post.title }}</description>
-		</entry>
-	{% endfor %}
-
+  <title>W3Schools Home Page</title>
+  <link>https://www.w3schools.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>New XML tutorial on W3Schools</description>
+  </item>
 </channel>
 
 </rss>
-
