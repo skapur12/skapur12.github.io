@@ -318,11 +318,20 @@ input.PotholeButton:hover {
 ul.posts { margin: 20px auto 40px; font-size: 30px; font-family: "Arial", Helvetica, sans-serif; line-height: 1.8em; }
 ul.posts li { list-style: none; }
 
+/* Alter this to change details about the date at the top of the blog pages */
 p.meta {
-    color: #671ED5 /* purple */
+    color: #671ED5; /* purple */
+    font-family: "American Typewriter", serif;
+    font-size: 30px; 
+    font-weight: 600;	
 }
 
+/* Alter this to change details about the blog text */
 .post {
-    color: #2CE626 /* green */
+    color: #2CE626; /* green */
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px; 
+    font-family: "Arial", "Helvetica", sans-serif;
 }
 
