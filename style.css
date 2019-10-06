@@ -123,6 +123,7 @@
 .dropdown:hover .dropbtn {background-color: #b51b1b;}
 
 input.MyButton {
+margin-left: 5px;
 margin-right: 5px;
 float: right;
     
