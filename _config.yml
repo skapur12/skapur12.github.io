@@ -1,2 +1,3 @@
 name: Sanjana Kapur
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
