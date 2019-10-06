@@ -2,18 +2,18 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>Sanjana Kapur's Blog</title>
+  <link>https://skapur12.github.io/blog/</link>
+  <description>Thoughts of a college student & programmer</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>Blog Launch</title>
+    <link>https://skapur12.github.io/blog/2019/10/06/sanjana-kapur-post-one</link>
+    <description>First post on blog</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Second Post</title>
+    <link>https://skapur12.github.io/blog/2019/10/06/second-testing-post</link>
+    <description>Second post on blog</description>
   </item>
 </channel>
 
