@@ -32,7 +32,10 @@ Then one day, a recruiter at Norfolk Southern, a railway transportation company,
 
 Although it sounds cliche, I think that putting in consistent effort over the course of the semester really does pay off. During previous semesters, I was lazy and simply applied online to these companies without any sort of in-person interaction. I realized that I was cheating myself by not taking advantage of all of the wonderful events that allowed me to speak face-to-face with the recruiters and learn more about their companies’ internship programs. The time I spent alone practicing answering technical interview questions proved to be invaluable as well. For more specific advice on how to land your first software engineering internship, you can read my blog post here.
 
-Thanks for reading! If you’ve made it this far, I’d love to connect with you on LinkedIn. Good luck with your internship search!
+Thanks for reading! If you’ve made it this far, I’d love to connect with you on <a href="https://www.linkedin.com/in/skapur12/" target="_blank">LinkedIn</a>. Good luck with your internship search!
+
+
+
 
 
 
