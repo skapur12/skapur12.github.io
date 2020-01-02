@@ -1,2 +1,2 @@
 # Personal Website
-Please visit https://skapur12.github.io to view my resume and projects!
+Please visit www.sanjana.net to view my resume and projects!
