@@ -16,7 +16,9 @@ As it turns out, I didn’t find an internship for the summer of 2019, but I was
 
 Then, when my junior year of college began, I knew that it was time to get serious about my internship search.
 
-<b> The Actual Search </b>
+<div class="BlogSize">
+  <b> The Actual Search </b>
+</div>
 
 Almost every morning, I attended Day In The Lobby Events. Representatives from tech companies would set up a booth in the lobby at Georgia Tech’s College of Computing building. The representatives took students’ resumes and answered our questions about their company’s internship programs. I recall spending quite a few hours each day standing in these lines every day, waiting for my turn to speak to a recruiter. Some of my closest friends today are ones I made by just turning to the people closest to me and striking up a conversation. Being able to get some one-on-one time speaking with the recruiter was quite informative. I was able to glean a lot of information about what the programs were like that I wouldn’t have been able to get online.
 
