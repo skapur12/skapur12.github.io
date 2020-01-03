@@ -4,6 +4,8 @@ title: "My Search For My First Software Engineering Internship"
 date: 2020-01-02
 ---
 
+  <img class="myImage" src="UNCW.png" alt="ApplyBug's information page for UNCW (University of North Carolina Wilmington)" style="width:900px; height:500px" >
+
 Before I get into the nitty-gritty details, let me start by introducing myself: Hi there! My name is Sanjana Kapur, and I’m a third-year Computer Science major at Georgia Tech. In this post, I’m going to be discussing how I landed my first software engineering internship. Let’s jump right in!
 
 <b> The Buildup </b>
