@@ -6,6 +6,7 @@ date: 2020-01-02
 
 Before I get into the nitty-gritty details, let me start by introducing myself: Hi there! My name is Sanjana Kapur, and I’m a third-year Computer Science major at Georgia Tech. In this post, I’m going to be discussing how I landed my first software engineering internship. Let’s jump right in!
 
+<br>
 <div class="BlogSize">
   <b> The Buildup  </b>
 </div>
@@ -16,6 +17,7 @@ As it turns out, I didn’t find an internship for the summer of 2019, but I was
 
 Then, when my junior year of college began, I knew that it was time to get serious about my internship search.
 
+<br>
 <div class="BlogSize">
   <b> The Actual Search </b>
 </div>
@@ -26,6 +28,7 @@ I also attended Tech Talks, corporate events that took place in the evening. Typ
 
 And finally, I went to two Georgia Tech career fairs: the All-Majors fair, and the College of Computing fair. In previous years, I spent most of my time standing in extremely long lines just to talk to one or two well-known tech companies. However, this time, I decided to branch out a bit more and talk to as many companies as I possibly could, regardless of the prestige, just to get as much exposure as possible. I noticed myself growing more confident over time; the more I practiced speaking to recruiters, the more naturally my elevator pitch rolled off of my tongue, and the more relaxed I felt overall.
 
+<br>
 <div class="BlogSize">
   <b> The Results </b>
 </div>
@@ -34,6 +37,7 @@ Then, I sat down, wrote cover letters, and applied to forty-three companies’ s
 
 Then one day, a recruiter at Norfolk Southern, a railway transportation company, contacted me. She set up a series of video conference interviews for me early the next morning so that I could talk to several different teams at the company the next day. Although I felt quite nervous in the hours leading up to that interview, I can say now, looking in hindsight, that the interviews were a great learning experience. All of my interviewers were very kind and patiently answered my plethora of questions about the products on which their teams were working. I also answered questions about my resume and several technical questions as well. Then, merely a few days later, I received a call with an offer for a Spring 2020 internship at the company!
 
+<br>
 <div class="BlogSize">
   <b> Any Advice? </b>
 </div>
