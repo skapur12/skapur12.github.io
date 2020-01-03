@@ -6,7 +6,7 @@ date: 2020-01-02
 
 Before I get into the nitty-gritty details, let me start by introducing myself: Hi there! My name is Sanjana Kapur, and I’m a third-year Computer Science major at Georgia Tech. In this post, I’m going to be discussing how I landed my first software engineering internship. Let’s jump right in!
 
-<b> <font size="30">The Buildup </font> </b>
+<b> <font size="10">The Buildup </font> </b>
 
 
 The semester of Spring 2019 was the one during which I first began to seriously look for an internship for the following summer. However, I didn’t branch out very far, as I applied to only twelve companies through CareerBuzz, my school’s job portal for students. I received one interview, and I utterly failed at that interview, as I was unable to solve the whiteboard question I was given. Although the question was relatively simple, I had never practiced solving ones like it before.
