@@ -74,6 +74,6 @@ If you have an in-person or onsite interview, ask for a business card at the end
 
 The process of trying to land an internship can be extremely tiring and time-consuming. Don’t lose hope! Remember that there are tons of other students going through the same thing as you. I didn’t get one until my junior year. To me, it always seemed like everyone else was landing all these great opportunities as sophomores and even as freshmen while I was left out. But don’t worry! Keep putting in effort and your time will come!
 
-Also, remember that it’s not the end of the world if you don’t get an internship. There are so many other things that you can do over your summer break. You could study abroad, take some summer classes, work at a summer job, work on a personal project, etc. etc.
+Also, remember that it’s not the end of the world if you don’t get an internship. There are so many other things that you can do over your summer break. You could study abroad, take some summer classes, work at a summer job, work on a personal project, etc. etc. The options are endless!
 
 Thanks for reading! If you made it this far, you deserve a cookie! 🍪 Good luck on that job search!
