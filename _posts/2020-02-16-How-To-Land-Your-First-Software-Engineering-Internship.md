@@ -17,11 +17,11 @@ Here are some tips for formatting a cover letter:
 
 Before writing anything, write the date and company address at the top of the page. Address it to the person who will be reading the letter; if you don’t know their name, then you can write “Dear Hiring Manager.”
 
-<b> Paragraph 1: </b> Introduce yourself by stating your major, year and school, reiterate the position that you’re applying for, and write 4–5 sentences on what interests you specifically about this position and why you want to work there. (Hint: Look at the job posting for help on this last part!) heyyy
+<b> Paragraph 1: </b> Introduce yourself by stating your major, year and school, reiterate the position that you’re applying for, and write 4–5 sentences on what interests you specifically about this position and why you want to work there. (Hint: Look at the job posting for help on this last part!) 
 
-Paragraph 2: Talk about your coursework and projects and the relevant experience/knowledge that they gave you. Elaborate on any details that you couldn’t include in your resume.
+<b> Paragraph 2: </b> Talk about your coursework and projects and the relevant experience/knowledge that they gave you. Elaborate on any details that you couldn’t include in your resume.
 
-Paragraph 3: Wrap it up by stating why the company should hire you and how you think you can contribute to the company’s mission.
+<b> Paragraph 3: </b> Wrap it up by stating why the company should hire you and how you think you can contribute to the company’s mission.
 
 Final sentence: Leave email and phone number so they can contact you if necessary!
 
