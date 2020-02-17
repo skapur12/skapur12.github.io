@@ -37,6 +37,7 @@ Here are some tips for formatting a cover letter:
 </div>
 
 Make sure to brush up on your Object-Oriented Programming concepts. In particular, make sure you can explain the four principles of OOP: encapsulation, abstraction, inheritance, and polymorphism!
+
 Also, make sure to practice technical questions commonly asked in interviews. CTCI (Cracking the Coding Interview) is a great place to start. As a note, when going through the questions in that book, write your solutions down on paper first, and then type them in your IDE of choice and check for errors.
 
 
