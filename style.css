@@ -330,8 +330,8 @@ p.meta {
 /* Alter this to change details about the blog text */
 .post {
     line-height: 150%;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
     font-size: 25px; 
     font-family: "Arial", "Helvetica", sans-serif;
 }
