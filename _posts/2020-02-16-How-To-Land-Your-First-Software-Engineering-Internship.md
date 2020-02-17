@@ -4,6 +4,8 @@ title: "How To Land Your First Software Engineering Internship"
 date: 2020-02-16
 ---
 
+<img src="hello.jpeg" alt="Italian Trulli">
+
 Hi there! It’s me, Sanjana, back again, this time with some tips on landing your first software engineering internship! I recently went through this process and learned quite a few things along the way. In this post, I’ll give you a few tips on landing one of these internships.
 
 <br>
