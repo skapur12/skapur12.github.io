@@ -5,7 +5,7 @@ date: 2020-01-02
 ---
 
 
-<img src="/assets/images/norway.jpeg" alt="Me in Norway" width="830" height="490">
+<img src="/assets/images/norway.jpeg" alt="Me in Norway" width="830" height="420">
 <div class="BlogImageCaption">
   Me taking a break from that internship search to stop and smell the roses! [Norway] 
 </div>
