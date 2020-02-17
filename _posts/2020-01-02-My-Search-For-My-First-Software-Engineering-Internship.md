@@ -5,9 +5,9 @@ date: 2020-01-02
 ---
 
 
-<img src="/assets/images/norway.jpeg" alt="Me in Norway" width="1500" height="500">
+<img src="/assets/images/norway.jpeg" alt="Me in Norway" width="1000" height="600">
 
-Before I get into the nitty-gritty details, let me start by introducing myself: Hi there! My name is Sanjana Kapur, and I’m a third-year Computer Science major at Georgia Tech. In this post, I’m going to be discussing how I landed my first software engineering internship. Let’s jump right in! heyyy
+Before I get into the nitty-gritty details, let me start by introducing myself: Hi there! My name is Sanjana Kapur, and I’m a third-year Computer Science major at Georgia Tech. In this post, I’m going to be discussing how I landed my first software engineering internship. Let’s jump right in! suppp
 
 <br>
 <div class="BlogSize">
