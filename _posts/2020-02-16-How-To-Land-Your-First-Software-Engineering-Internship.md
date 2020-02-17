@@ -7,7 +7,7 @@ date: 2020-02-16
 <img src="/assets/images/dad.jpeg" alt="Me and my dad" width="830" height="490">
 
 <div class="BlogImageCaption">
-  Me and my dad! (He's a a software engineer and business owner whose guidance/mentorship have been invaluable to me. Thanks, Dad!) 
+  Me and my dad! (He's a software engineer and business owner whose guidance/mentorship have been invaluable to me. Thanks, Dad!) 
  </div>
 
 Hi there! It’s me, Sanjana, back again, this time with some tips on landing your first software engineering internship! I recently went through this process and learned quite a few things along the way. In this post, I’ll give you a few tips on landing one of these internships. 
@@ -21,7 +21,7 @@ The cover letter is a way to differentiate yourself from all of the other candid
 
 Here are some tips for formatting a cover letter:
 
-Before writing anything, write the date and company address at the top of the page. Address it to the person who will be reading the letter; if you don’t know their name, then you can write “Dear Hiring Manager.”
+First, write the date and company address at the top of the page. Address it to the person who will be reading the letter; if you don’t know their name, then you can write “Dear Hiring Manager.”
 
 <b> Paragraph 1: </b> Introduce yourself by stating your major, year and school, reiterate the position that you’re applying for, and write 4–5 sentences on what interests you specifically about this position and why you want to work there. (Hint: Look at the job posting for help on this last part!) 
 
