@@ -23,7 +23,7 @@ Before writing anything, write the date and company address at the top of the pa
 
 <b> Paragraph 3: </b> Wrap it up by stating why the company should hire you and how you think you can contribute to the company’s mission.
 
-Final sentence: Leave email and phone number so they can contact you if necessary!
+<b> Final sentence: </b> Leave email and phone number so they can contact you if necessary!
 
 <br>
 <div class="BlogSize">
