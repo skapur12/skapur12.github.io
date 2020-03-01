@@ -225,9 +225,8 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 
 .left {
   width: 43%;
-  margin: auto;
-  /* padding-left: 90px;
-  padding-right: 43px;  */
+  padding-left: 100px;
+  padding-right: 43px; 
 }
 
 .right {
