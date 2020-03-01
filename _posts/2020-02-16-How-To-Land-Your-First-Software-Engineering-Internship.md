@@ -7,7 +7,7 @@ date: 2020-02-16
 <img src="/assets/images/dad.jpeg" alt="Me and my dad" class="centerA" >
 
 <div class="BlogImageCaption">
-  Me and my dad! (He's a software engineer and business owner whose guidance/mentorship have been invaluable to me. Thanks, Dad!) 
+  Me and my dad! (He's a startup owner and software engineer whose guidance/mentorship have been invaluable to me. Thanks, Dad!) 
  </div>
 
 Hi there! It’s me, Sanjana, back again, this time with some tips on landing your first software engineering internship! I recently went through this process and learned quite a few things along the way. In this post, I’ll give you a few tips on landing one of these internships. 
