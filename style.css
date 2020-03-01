@@ -357,3 +357,8 @@ page.title.h1 {
     background-color: #dedede;
     max-width: 100%; 
 }
+
+#lab_footer a {
+    color: #333;
+    margin: 5px;
+  }
