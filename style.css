@@ -1,17 +1,4 @@
-/* #AboutMe img {
-    
-     object-fit: contain; 
-     height:500px; 
-    
-     display: block;
-     /* margin: 0 auto; */
-    
-    /* margin-left: 100px; */
-    /* float: left;  
-    width: 50%; 
-} */
-
- body {
+body {
     margin-left: 50px;
     margin-right: 50px;
 
@@ -22,9 +9,6 @@
 }
 
 .IconFooter {
-   /* position: relative; */
-   /* left: 0;
-   bottom: 0; */
    width: 100%;
    background-color: white;
    color: grey;
@@ -69,7 +53,6 @@
   width: 150px;
   padding: 20px;
   font-size: 20px;
-  /* border: none; */
     
   font-weight: bold;
   font-size: 150%;
@@ -159,22 +142,6 @@ input.TrackerButton, input.WebsiteButton {
     text-align: center;
     font-family: 'Arial'; 
     font-size: 20px; 
-
-
-    
-    /* width: 100px;
-    padding: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    font-size: 150%;
-    background: #DB2323;
-    color: #fff;
-    border: 1px solid #3366cc;
-    border-radius: 10px;
-    -moz-box-shadow:: 6px 6px 5px #999;
-    -webkit-box-shadow:: 6px 6px 5px #999;
-    box-shadow:: 6px 6px 5px #999;
-    */
 }
 
 input.TrackerButton:hover, input.WebsiteButton:hover {
@@ -225,20 +192,11 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 }
 
 .Poster1Image {
-  /* display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; */
-  
   object-fit: contain;
 }
 
 .Poster2Image {
    display: block;
-  /* margin-left: auto;
-  margin-right: auto;
-  width: 50%; */
-  
   object-fit: contain;
 }
 
@@ -255,14 +213,6 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
   clear: both;
   display: table;
 }
-
-/* .row1 {
-  display: flex;
-}
-
-.column1 {
-  flex: 50%;
-} */
 
 .column1 {
   float: left;
@@ -376,6 +326,3 @@ page.title.h1 {
         width: 100%;
     }
 }
-
-
-
