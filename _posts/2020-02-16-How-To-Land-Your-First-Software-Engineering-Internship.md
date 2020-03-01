@@ -4,7 +4,7 @@ title: "How To Land Your First Software Engineering Internship"
 date: 2020-02-16
 ---
 
-<img src="/assets/images/dad.jpeg" alt="Me and my dad" width="830" height="490" class="centerA" >
+<img src="/assets/images/dad.jpeg" alt="Me and my dad" class="centerA" >
 
 <div class="BlogImageCaption">
   Me and my dad! (He's a software engineer and business owner whose guidance/mentorship have been invaluable to me. Thanks, Dad!) 
