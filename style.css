@@ -351,3 +351,9 @@ page.title.h1 {
     font-style: italic;
     text-align: center;
 }
+
+#lab_footer {
+    padding: 40px 0;
+    background-color: #dedede;
+    max-width: 100%; 
+}
