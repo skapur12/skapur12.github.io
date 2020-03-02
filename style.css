@@ -219,7 +219,7 @@ input.TrackerButton:hover, input.WebsiteButton:hover {
 }
 
 .column1 {
-  float: left;
+  /* float: left; */
   padding: 10px;
 }
 
